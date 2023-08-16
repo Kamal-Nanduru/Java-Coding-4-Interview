@@ -21,5 +21,6 @@ public static void main(String[] args) {
 	System.out.println("enter the string :");
 	String s=sc.nextLine();
 	reverseawordinjs(s);
+	sc.close();
 }
 }
